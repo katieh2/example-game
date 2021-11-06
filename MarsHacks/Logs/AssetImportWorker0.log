@@ -163,3 +163,59 @@ Received Import Request.
 Start importing Assets/Cow.png using Guid(7104bc7c59fa8064e80d020d2bdb3fd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0eb5c43fa1e355d7a31e9ba76babfbe0') in 0.023663 seconds 
   Import took 0.027928 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 207.602741 seconds.
+  path: Assets/collisiontech.cs
+  artifactKey: Guid(828114a417d0d4be6b4b0a2c8ce4bab7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/collisiontech.cs using Guid(828114a417d0d4be6b4b0a2c8ce4bab7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f6f72b310df57c4ba17850d0bfc52fe') in 0.359658 seconds 
+  Import took 0.363218 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.368773 seconds.
+  path: Assets/BallMovement.cs
+  artifactKey: Guid(ac79022015823498586a680ce1060aa1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BallMovement.cs using Guid(ac79022015823498586a680ce1060aa1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50e647a76d5f95c0e477dd470fa697f6') in 0.003208 seconds 
+  Import took 0.007870 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.525128 seconds.
+  path: Assets/BallMove.cs
+  artifactKey: Guid(70eead06436294e109e7ab08e1c8bf5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BallMove.cs using Guid(70eead06436294e109e7ab08e1c8bf5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfe44eff46f54d4cba0ddbaffc90110a') in 0.002366 seconds 
+  Import took 0.008793 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.662086 seconds.
+  path: Assets/ArmMove.cs
+  artifactKey: Guid(9114231a9df1d4f3c93c64cad08ec2bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArmMove.cs using Guid(9114231a9df1d4f3c93c64cad08ec2bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce1307b054eecdabf2271d4de553851e') in 0.002600 seconds 
+  Import took 0.008111 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.656580 seconds.
+  path: Assets/ScoreVariable.cs
+  artifactKey: Guid(701ab1c390408fb46a914de2babf90d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScoreVariable.cs using Guid(701ab1c390408fb46a914de2babf90d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb1879d89d148fcc5edcb34df192b468') in 0.002218 seconds 
+  Import took 0.008157 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 384.913483 seconds.
+  path: Assets/Scenes/Scene1.unity
+  artifactKey: Guid(972d0443003fe4e4496cd2230a4a6d33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Scene1.unity using Guid(972d0443003fe4e4496cd2230a4a6d33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64be30f51652bfef560d38470b3f4246') in 0.003934 seconds 
+  Import took 0.009443 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.097882 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd80d49d702afe5a7f1fb0328221cf12b') in 0.003566 seconds 
+  Import took 0.009494 seconds .
+
